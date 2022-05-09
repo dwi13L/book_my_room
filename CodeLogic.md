@@ -1,6 +1,6 @@
 # Micro Services Project with Spring Boot
 
-## 1. Instrucitons for start up
+## 1. Instructions for start up
 
 > Please execute the deploy.sh file inside each folder in the following order
 
@@ -29,7 +29,7 @@ They can be accessed using the following credentials:
    - JDBC url - jdbc:h2:mem:paymentdb
    - password - ""
 
-- All API end points are as per requirents
+- All API end points are as per requirements
 
 ---
 
